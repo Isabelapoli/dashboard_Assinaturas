@@ -10,4 +10,4 @@ O Dashboard foi criado usando uma base de dados fictícia de assinaturas de serv
 
 -Pergunta de negócio 4 - Total de vendas da assinatura Minecraft season pass;
 
-Elas foram respondidas usando tabelas dinâmicas. Os valores totais apresentados nelas foram passados para a dashboard para uma melhor vizulização.
+Elas foram respondidas usando tabelas dinâmicas. Os valores totais apresentados nelas foram passados para a dashboard para uma melhor vizualização.
